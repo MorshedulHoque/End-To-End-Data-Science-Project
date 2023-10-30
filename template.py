@@ -5,7 +5,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO)
 
-project_name = "end-to-end-data-science-project"
+project_name = "end_to_end_data_science_project"
 
 list_of_files=[
     f'src/{project_name}/__init__.py',
